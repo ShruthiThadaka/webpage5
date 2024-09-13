@@ -6,6 +6,7 @@
 
 header {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     background-color: rgb(31, 31, 63);
     align-items: center;
